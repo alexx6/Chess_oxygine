@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<resources>
+	<set path = "images" />
+	<atlas>
+		<image file = "light_tile.jpeg" />
+		<image file = "dark_tile.jpeg" />
+		<image file = "figures.png" rows = "2" cols = "6"/>
+	</atlas>
+	
+	<set path = "fonts" />
+	<font file="main.fnt" />	
+</resources>
